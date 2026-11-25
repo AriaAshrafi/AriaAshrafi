@@ -1,9 +1,9 @@
 <!-- Made from the site's content and brand kit; regenerate rather than edit by hand. -->
 <p>
 <a href="https://ariaashrafi.com/"><img src="art/01-whoami.svg" width="100%" align="top" alt="Aria Ashrafi: AI Product Engineer and Design System Engineer at Kareone. I build design systems and code with agents."></a>
-<a href="https://ariaashrafi.com/work/sound-realm/"><img src="art/02-sound-realm.svg" width="100%" align="top" alt="Sound Realm: A music school and record label you play like a game."></a>
-<a href="https://ariaashrafi.com/work/cognisynth/"><img src="art/03-cognisynth.svg" width="100%" align="top" alt="Cognisynth: A synthesizer that learns the sound you're going for."></a>
-<a href="https://ariaashrafi.com/work/spectral-fusion/"><img src="art/04-spectral-fusion.svg" width="100%" align="top" alt="Spectral Fusion: A real-time VST3 that morphs one live sound toward another in the frequency domain."></a>
+<a href="https://ariaashrafi.com/work/cognisynth/"><img src="art/02-cognisynth.svg" width="100%" align="top" alt="Cognisynth: A synthesizer that learns the sound you're going for."></a>
+<a href="https://ariaashrafi.com/work/spectral-fusion/"><img src="art/03-spectral-fusion.svg" width="100%" align="top" alt="Spectral Fusion: A real-time VST3 that morphs one live sound toward another in the frequency domain."></a>
+<a href="https://ariaashrafi.com/work/sound-realm/"><img src="art/04-sound-realm.svg" width="100%" align="top" alt="Sound Realm: A music school and record label you play like a game."></a>
 <a href="https://ariaashrafi.com/work/pendar/"><img src="art/05-pendar.svg" width="100%" align="top" alt="Pendar: A Persian-first brand and design system, laid brick by brick."></a>
 <a href="https://ariaashrafi.com/work/market-navigator/"><img src="art/06-market-navigator.svg" width="100%" align="top" alt="Market Navigator: See your market from above — market intelligence for Iranian founders."></a>
 <a href="https://ariaashrafi.com/work/layla/"><img src="art/07-layla.svg" width="100%" align="top" alt="Layla: Reads Persian text and answers your questions about it — never writes its own."></a>
